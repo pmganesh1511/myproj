@@ -1,7 +1,7 @@
 - check my first git project
 
 ties check  
-
+chenchg
 - git user 
 - again changed
 
