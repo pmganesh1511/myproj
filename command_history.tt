@@ -1,0 +1,167 @@
+    1  git branch
+    2  mkdir projectPractice
+    3  cd projectPractice/
+    4  git clone https://github.com/pmganesh1511/myproj.git
+    5  git clone git@github.com:pmganesh1511/myproj.git
+    6  $ ssh-keygen -t rsa -b 4096 -C "yourmail@gmail.com" -f/d/keyner     (path d:/keyner )
+    7  ssh-keygen -t rsa -b 4096 -C "pmganesh1511@gmail.com" -f/d/keyner
+    8  $ eval $(ssh-agent -s)
+    9  eval $(ssh-agent -s)
+   10  ssh-add /d/keyner
+   11  ssh -T git@github.com
+   12  git clone git@github.com:pmganesh1511/myproj.git
+   13  ls
+   14  pwd
+   15  ssh -T git@github.com
+   16  git clone git@github.com:pmganesh1511/myproj.git
+   17  hostname
+   18  git clone git@github.com:rudragithub/gitPractice.git
+   19  ls -altr
+   20  pws
+   21  pwd
+   22  cd ..
+   23  cd ..
+   24  ls
+   25  cd .s
+   26  cd PRAKASH/
+   27  ls -altr
+   28  cd .ssh/
+   29  ls a-ltr
+   30  ls -altr
+   31  cat known_hosts 
+   32  rm -rf known_hosts 
+   33  git clone git@github.com:rudragithub/gitPractice.git
+   34  $ ssh-keygen -t rsa -b 4096 -C "pmganesh1511@gmail.com"  
+   35  ssh-keygen -t rsa -b 4096 -C "pmganesh1511@gmail.com"  
+   36  ls
+   37  eval $(ssh-agent -s)
+   38  ssh-add.exe ~/.ssh/id_rsa
+   39  ls
+   40  clip < id_rsa.pub 
+   41  git clone git@github.com:rudragithub/gitPractice.git
+   42  git clone git@github.com:pmganesh1511/myproj.git
+   43  git branch
+   44  ls a-lt
+   45  pwd
+   46  ls
+   47  cd ..
+   48  ls a-ltr
+   49  ls -altr
+   50  cd projectPractice/
+   51  ls
+   52  git clone git@github.com:pmganesh1511/myproj.git
+   53  ls
+   54  cd myproj/
+   55  git branch
+   56  ls -alt
+   57  vi gitM.txt
+   58  git branch
+   59  ls a-ltr
+   60  ls -altr
+   61  git status
+   62  git status
+   63  git add gitM.txt 
+   64  gitk
+   65  git branch
+   66  git branch
+   67  git status
+   68  git checkout master
+   69  git branch
+   70  git branch master
+   71  git branch
+   72  git branch
+   73  git checkout -b mynew-proj 
+   74  ls -altr
+   75  vi gitM.txt 
+   76  git status
+   77  git log
+   78  git commit -a
+   79  git config --global user.email "pmganesh1511@gmail.com"
+   80  git config --global user.name "Prakash Malik"
+   81  git commit -a
+   82  git commit -a -m "check new commit"
+   83  gitk
+   84  git log
+   85  vi gitM.txt 
+   86  git status
+   87  gitk
+   88  git log
+   89  git commit -a -m "check 2nd commit"
+   90  git status
+   91  gitk
+   92  git log
+   93  git push origin mynew-proj
+   94  frla kt
+   95  la -LRE
+   96  ls -al
+   97  git fetch --all
+   98  git status
+   99  git branch
+  100  git pull origin mynew-proj
+  101  ls
+  102  gitk
+  103  ls -altr
+  104  vi newf 
+  105  git status
+  106  git push origin mynew-proj
+  107  git pull origin mynew-proj
+  108  git status
+  109  git commit -a
+  110  git pull origin mynew-proj
+  111  git mergetool
+  112  git status
+  113  rm -rf newf.orig 
+  114  vi newf 
+  115  git mergetool
+  116  git status
+  117  git commit -a
+  118  git push origin mynew-proj
+  119  gitk
+  120  git diff
+  121  vi gitM.txt 
+  122  git diff
+  123  git difftool
+  124  gitk
+  125  git commit -a -m "nec commit 1"
+  126  gitk
+  127  git push origin mynew-proj
+  128  gitk
+  129  git log
+  130  !
+  131  git branch
+  132  git checkout -b pra
+  133  git branch
+  134  git branch -D pra
+  135  git checkout mynew-proj
+  136  git branch
+  137  git branch -D pra
+  138  git log
+  139* 
+  140  git revert -i 
+  141  git revert -i 8ac3a616565ee195b0dccf34596c0ceb171b7b0b
+  142  git rebase -i 8ac3a616565ee195b0dccf34596c0ceb171b7b0b
+  143  git rebase -i HEAD~4
+  144  git status
+  145  git branch
+  146  git status
+  147  git checkout .
+  148  git branch
+  149  git status
+  150  git status
+  151  gitk
+  152  git reset --hard
+  153  gitk
+  154  git log
+  155  git rebase -i b866587f4f99820b0b9fd2fda0b3331e9d581716
+  156  gitk
+  157  git commit -a
+  158  git status
+  159  git log
+  160  git rebase -i 580e51a89d06f686511ea8fbff96acb0a4af9ae3
+  161  git rebase --continue
+  162  git rebase -i 580e51a89d06f686511ea8fbff96acb0a4af9ae3
+  163  git status
+  164  git log
+  165  history
+  166  history > command_history.tt
+
